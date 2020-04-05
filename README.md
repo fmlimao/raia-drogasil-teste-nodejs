@@ -3,7 +3,7 @@
 ## Instalando e rodando a API
 
     git clone git@github.com:fmlimao/raia-drogasil-teste-nodejs.git
-    cs raia-drogasil-teste-nodejs
+    cd raia-drogasil-teste-nodejs
     npm install
     node index.js
 
