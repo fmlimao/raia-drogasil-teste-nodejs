@@ -1,0 +1,27 @@
+{
+  "name": "raia-drogasil-teste-nodejs",
+  "version": "1.0.0",
+  "description": "Raia Drogasil - Teste NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/* | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmlimao/raia-drogasil-teste-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmlimao/raia-drogasil-teste-nodejs/issues"
+  },
+  "homepage": "https://github.com/fmlimao/raia-drogasil-teste-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "supertest": "^4.0.2",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.2"
+  }
+}
